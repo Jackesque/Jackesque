@@ -9,7 +9,7 @@ I stumbled upon web development about 2 and a half years ago and have been in a 
 *   🌍  I'm based in Ho Chi Minh City
 *   ✉️  You can contact me at [tientranquang123@gmail.com](mailto:tientranquang123@gmail.com)
 *   🚀  I'm currently working on [My Portfolio](http://example.com)
-*   🧠  I'm learning SvelteKit
+*   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on making static and responsive websites
 *   ⚡  My heart resides in music, yet my mind decides to investigate the code
 
