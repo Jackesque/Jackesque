@@ -6,9 +6,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Jackesque/count.svg)
 
-[![Hits](https://hits.sh/github.com/Jackesque.svg?view=today-total&style=for-the-badge&label=visitors&extraCount=7&logo=4chan)](https://hits.sh/github.com/Jackesque/)
+[![Hits](https://hits.sh/github.com/Jackesque.svg?view=today-total&style=for-the-badge&label=visitors&logo=4chan)](https://hits.sh/github.com/Jackesque/)
 
-I stumbled upon web development about 2 and a half years ago and have been in a relationship with it ever since. I'm a junior at VNU-HCM University of Information Technology.
+I stumbled upon web development about 3 years ago and have been in a relationship with it ever since. I'm a junior at VNU-HCM University of Information Technology.
 
 *   🌍  I'm based in Ho Chi Minh City
 *   ✉️  You can contact me at [tientranquang123@gmail.com](mailto:tientranquang123@gmail.com)
@@ -19,6 +19,7 @@ I stumbled upon web development about 2 and a half years ago and have been in a 
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/Jackesque?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Jackesque)
+[![GitHub Followers](https://img.shields.io/github/stars/Jackesque?logo=4chan&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Jackesque)
   
 ## Tech Stack
 
