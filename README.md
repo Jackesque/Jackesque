@@ -1,6 +1,6 @@
 [![Intro](https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=100&size=60&duration=2500&pause=500&color=7FEAF5&center=true&vCenter=true&random=false&width=1000&height=200&lines=%F0%9F%91%8B+Hi+y'all;I'm+Jac;You+can+call+me+Jackesque;It's+pronounced+Jac%E3%83%BBkes%E3%83%BBk;Or+just+Jac+for+short;%F0%9F%A4%AB)](https://git.io/typing-svg)
 
-<img src="/public/horizontal-divider-gradient.gif">
+![Horizontal Divider Gradient](/public/horizontal-divider-gradient.gif)
 
 ## Profile Views
 
@@ -17,9 +17,8 @@ I stumbled upon web development about 2 and a half years ago and have been in a 
 *   🤝  I'm open to any chance of learning and collaboration
 *   ⚡  My heart resides in music, while my mind explores building software
 
-<a href="https://www.github.com/Jackesque" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Jackesque?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+
+[![GitHub Followers](https://img.shields.io/github/followers/Jackesque?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Jackesque)
   
 ## Tech Stack
 
@@ -63,25 +62,27 @@ I stumbled upon web development about 2 and a half years ago and have been in a 
 ### My GitHub Stats
 
 <table>
-    <tr>
-        <td align="center">
-          <img src="https://github-trophies.vercel.app/?username=Jackesque&theme=onestar&row=4&column=4" alt="Jackesque" />
-        </td>
-        </td>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Jackesque&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jackesque's GitHub stats" />
-        </td> 
-    </tr>
-    <tr>
-        <td align="center">            
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackesque&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false=Top%20%Languages" alt="Top Languages" />
-        </td>
-        <td align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackesque&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-        </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-trophies.vercel.app/?username=Jackesque&theme=onestar&row=4&column=4" alt="Jackesque" />
+    </td>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jackesque&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jackesque's GitHub stats" />
+    </td> 
+  </tr>
+  <tr>
+    <td align="center">            
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackesque&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false=Top%20%Languages" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackesque&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <a href="http://www.github.com/Jackesque">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jackesque&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </tr>
 </table>
 
-<a href="http://www.github.com/Jackesque">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jackesque&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+![Horizontal Divider Gradient](/public/horizontal-divider-gradient.gif)
