@@ -58,7 +58,7 @@ I stumbled upon web development about 3 years ago and have been in a relationshi
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tien.tranquang.0807)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tientranquang123@gmail.com)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T02QFU9TCTD/D05L25661QS/rimeto_profile/U05KMJBG8FR)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/765164329053061133)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/765164329053061133)
 
 ### My GitHub Stats
 
