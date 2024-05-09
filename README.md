@@ -19,7 +19,7 @@ I stumbled upon web development about 3 years ago and have been in a relationshi
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/Jackesque?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Jackesque)
-[![GitHub Followers](https://img.shields.io/github/stars/Jackesque?logo=4chan&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Jackesque)
+[![GitHub Stars](https://img.shields.io/github/stars/Jackesque?logo=4chan&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Jackesque)
   
 ## Tech Stack
 
